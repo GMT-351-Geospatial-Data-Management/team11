@@ -40,4 +40,4 @@ He will attempt to detect and fix security vulnerabilities.
 
 
 ## Project Evaluation:
-All of the main objectives set in the project have been achieved. All group members worked equally throughout the project, and we have understood that the dedication shown has resulted in the achievement of all the main goals set in the project. Dear Assoc. Prof., who assigned us this project that will increase our knowledge in software and provided his support throughout the project process. Dr. We would like to thank our teacher Berk ANBAROĞLU. 20.01.2024 - Team 11
+All of the main objectives set in the project have been achieved. All group members worked equally throughout the project, and we have understood that the dedication shown has resulted in the achievement of all the main goals set in the project. Dear Assoc. Prof., who assigned us this project that will increase our knowledge in software and provided his support throughout the project process. We would like to thank our teacher Assoc Prof Berk ANBAROĞLU. 20.01.2024 - Team 11
