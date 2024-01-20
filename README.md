@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Project Name: Feridunumdan.com Vehicle Information Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Objectives:
+This project aims to develop an interactive web page so that users can easily find the features of luxury class vehicles. The project will include basic features such as vehicle brands and models, vehicle class, as well as special features that users can add.
 
-## Available Scripts
+## Task Distribution and Duties:
 
-In the project directory, you can run:
+### Frontend & Backend Developer (Berkay Serhan SELVİ - 2200674003):
+Technology Selection and Installation:
+He will create the frontend using the React framework.
+It will design a user-friendly user interface.
+Filtering Interface:
+It will design a filtering interface that includes features such as brand, model, year of production.
+It will perform filtering operations according to the user's choices.
+Result Display:
+It will create a results section that will regularly display the filtering results to the user.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Frontend & Backend Developer (Feridun Tolga SOLAK - 2200674034):
+Technology Selection and Installation:
+He will create the backend using Node.js and Express framework.
+It will choose MongoDB or any other suitable database as the database.
+Database Operations:
+It will create a schema to store vehicle properties in the database.
+It will create APIs that can perform CRUD operations (GET, POST, DELETE).
+WebSocket Implementation:
+It will establish the WebSocket connection to send real-time notifications to users.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### Testing and Design Developer (Umut Yusuf KINACI - 2200674040):
+Creating Test Scenarios:
+It will create separate test scenarios for backend and frontend.
+It will test scenarios such as user login, filtering, database operations.
+Usability and Design Control:
+Will evaluate the usability of the user interface.
+It will check browser compatibility and manage debugging processes.
+Security Tests:
+It will perform basic tests for the security of the application.
+It will attempt to detect and fix security vulnerabilities.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Project Evaluation:
+All of the main objectives set in the project have been achieved. All group members worked equally throughout the project, and we have understood that the dedication shown has resulted in the achievement of all the main goals set in the project. Dear Assoc. Prof., who assigned us this project that will increase our knowledge in software and provided his support throughout the project process. Dr. We would like to thank our teacher Berk ANBAROĞLU. 20.01.2024 - Team 11
